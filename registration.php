@@ -1,6 +1,6 @@
 <?php
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'dawhoo_ConfigurableProducts',
+    'Dawhoo_ConfigurableProducts',
     __DIR__
 );
