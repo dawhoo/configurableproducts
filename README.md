@@ -1,12 +1,12 @@
 Installation:
 Step 1. Add module to the composer.json
-"dawhoo/configurableproducts": "dev-master"
+"Dawhoo/Configurableproducts": "dev-master"
 Example:
 
 "require": {
     "magento/product-community-edition": "2.2.0",
     "composer/composer": "@alpha",
-    "mjankiewicz/configurableproduct": "dev-master"
+    "Dawhoo/Configurableproducts": "dev-master"
 }
 Step 2. Update composer
 composer update
